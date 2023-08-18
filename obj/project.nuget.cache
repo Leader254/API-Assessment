@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFGNdeMVWpEkJA5zB6AS6lMsgKbIpATylpBECCb7wESdVvh3OKUz3rV+8Uanevp8flaGQdVLyOZg/V5EvnaS1w==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\C# .NET Training\\Week 3\\API-Consume\\API-Consume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
